@@ -6,6 +6,7 @@ Provide a solution for the CodeForces problem [#548](https://codeforces.com/prob
 - Should be implemented in Python
 - Python script should be executable 
 - Input should be consumed as yaml file
+- Solution should be submitted as Pull Request to this repository
 
 ## How to stand out from the crowd
 - Code Style
