@@ -5,7 +5,7 @@ Provide a solution for the CodeForces problem [#548](https://codeforces.com/prob
 ## Solution Requirements
 - Should be implemented in Python
 - Python script should be executable 
-- Input should be consumed as yaml file
+- Input should be consumed as yaml file. (provide input example as part of the proposed solution)
 - Solution should be submitted as Pull Request to this repository
 
 ## How to stand out from the crowd
