@@ -7,7 +7,7 @@ def pre_game():
         data = y.safe_load(f)
 
     result = [(k, v) for k, v in data.items()]
-    print(result)
+    # print(result)
     return result
 
 
@@ -42,7 +42,11 @@ def print_result(marry_the_princess, gold_counter, dragons_killed, dragons_list)
         print(-1)
 
 
-if __name__ == '__main__':
+def main():
     game = pre_game()
     marry, count, dragons, d_list = start_game(game)
     print_result(marry, count, dragons, d_list)
+
+
+if __name__ == '__main__':
+    main()
